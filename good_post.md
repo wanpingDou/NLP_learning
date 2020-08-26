@@ -1,1 +1,1 @@
-<center> Good Post Good Idea to Ponder</center>
+<center color='green'> Good Post Good Idea to Ponder</center>
