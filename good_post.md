@@ -1,1 +1,1 @@
-<center color='green'> Good Post Good Idea to Ponder</center>
+<center> <font face="黑体" color=black size=10> Good Post Good Idea to Ponder </font></center>
